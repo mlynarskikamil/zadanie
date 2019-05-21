@@ -2,4 +2,4 @@ Pierwszy plik testowy
 
 +
 
-Dodatkowa treœæ
+Zmieniony plik
